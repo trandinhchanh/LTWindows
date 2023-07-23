@@ -20,3 +20,14 @@ E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.genruntimeconfig.cache
 E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\ref\Example.dll
 E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.Article11.resources
 E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.Article08.resources
+E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.Article12.resources
+E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.Article13.resources
+E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.Article14.resources
+E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.Article15.resources
+E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.Article16.resources
+E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.Article17.resources
+E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.Article18.resources
+E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.Article19.resources
+E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.Article20.resources
+E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.Article21.resources
+E:\TranDinhChanh\Example\obj\Debug\net6.0-windows\Example.Article22.resources

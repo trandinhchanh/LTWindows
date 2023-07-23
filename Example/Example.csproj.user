@@ -13,6 +13,39 @@
     <Compile Update="Article11.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Article12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Article13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Article14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Article15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Article16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Article17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Article18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Article19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Article20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Article21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Article22.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="DangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
